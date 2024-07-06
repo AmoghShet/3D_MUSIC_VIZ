@@ -51,12 +51,12 @@ For previous versions, replace `3D_MUSIC_VIZ.py` with the appropriate file name,
 
 ## File Descriptions
 
-- `viz1.py`: A blue sphere that reacts to music. Requires 2 audiofiles: a `.wav` for the viz and a `.mp3` for the playback.
+- `viz1.py`: A blue sphere that reacts to music. Requires 2 audiofiles: a '.wav' for the viz and a '.mp3' for the playback.
 - `viz2.py`: An experiment with a different visualization technique.
 - `viz3.py`: Iteration over `viz1.py`. Now the viz multiple colours.
 - `viz4.py`: Now opens the viz in fullscreen.
 - `viz5.py`: Add the functionality to quit with the escape key.
-- `3D_MUSIC_VIZ.py`: The main file containing the latest version of the 3D Music Visualization tool. Requires only 1 `.wav` audiofile that the user can select from the dialog box
+- `3D_MUSIC_VIZ.py`: The main file containing the latest version of the 3D Music Visualization tool. Requires only one '.wav' audiofile that the user can select from the dialog box
 
 ## Contributing
 
