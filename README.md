@@ -1,6 +1,6 @@
 # 3D MUSIC VIZ
 
-This repository contains a 3D music visualization tool written in Python. The main file, `3D_MUSIC_VIZ.py`, is the latest version of the tool. Previous versions of the tool are included as well for reference.
+A 3D music visualization tool written in Python. The main file, `3D_MUSIC_VIZ.py`, is the latest version of the tool. Previous versions of the tool are included as well for reference.
 
 ## Table of Contents
 
